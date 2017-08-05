@@ -32,7 +32,7 @@ footer {
 }
 section {
 	display: inline-block;		
-	width: 520px;		
+	width: 495px;		
 	height: 275px;		
 	line-height: 80px;
 	background-color: white;
@@ -40,7 +40,7 @@ section {
 }
 aside {
 	float: right;
-	width: 420px;
+	width: 445px;
 	height: 275px;	
 	background-color: white;
 	margin: 10px 0 10px 20px;
@@ -48,7 +48,7 @@ aside {
 article {
 	position: relative;
 	left: 20px;
-	width: 475px;
+	width: 450px;
 	height: 180px;
 	line-height: 80px;
 	color: white;
@@ -56,7 +56,7 @@ article {
 }
 .wrap h1, .wrap p {
 	position: relative;
-	width: 430px;
+	width: 405px;
 	height: 40px;
 	line-height: 40px;
 	left: 20px;
