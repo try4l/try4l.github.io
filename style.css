@@ -1,0 +1,69 @@
+body {
+	width: 960px;
+	margin: auto;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	color: #bebebe;  /* made this darker because i couldn't see it */
+	text-align: center;
+	line-height: 100px;
+	background-color: #777;
+}
+header {
+	position: relative;
+	width: 100%;
+	height: 100px;
+	background-color: white;
+	margin: 10px 0;
+}
+nav {
+	position: relative;
+	width: 100%;
+	height: 100px;
+	background-color: white;
+	margin: 10px 0;
+}
+footer {
+	display: block;
+	width: 960px;
+	text-align: center;
+	height: 100px;
+	background-color: white;
+	margin: 10px 0;
+}
+section {
+	display: inline-block;		
+	width: 520px;		
+	height: 275px;		
+	line-height: 80px;
+	background-color: white;
+	margin: 10px 0;
+}
+aside {
+	float: right;
+	width: 420px;
+	height: 275px;	
+	background-color: white;
+	margin: 10px 0 10px 20px;
+}
+article {
+	position: relative;
+	left: 20px;
+	width: 475px;
+	height: 180px;
+	line-height: 80px;
+	color: white;
+	background-color: #777;
+}
+.wrap h1, .wrap p {
+	position: relative;
+	width: 430px;
+	height: 40px;
+	line-height: 40px;
+	left: 20px;
+	top: -20px;
+	margin: 10px 0;
+	padding: 0;
+	color: #bebebe;
+	background-color: white;
+}
+
